@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TaXBkQGo2xV8QbKmEYsNFtu33sAUZVOp1JkDUwWEWH4=",
+  "Source": "moneyboss-user-service",
+  "BasePath": "_content/moneyboss-user-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
