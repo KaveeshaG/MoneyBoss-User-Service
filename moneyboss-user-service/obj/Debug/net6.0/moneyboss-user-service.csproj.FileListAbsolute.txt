@@ -70,3 +70,13 @@ D:\MSc\MSc-EAD\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\re
 D:\MSc\MSc-EAD\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.pdb
 D:\MSc\MSc-EAD\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.genruntimeconfig.cache
 D:\MSc\MSc-EAD\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\ref\moneyboss-user-service.dll
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.csproj.AssemblyReference.cache
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.AssemblyInfoInputs.cache
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.AssemblyInfo.cs
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.csproj.CoreCompileInputs.cache
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.MvcApplicationPartsAssemblyInfo.cs
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.MvcApplicationPartsAssemblyInfo.cache
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.dll
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\refint\moneyboss-user-service.dll
+D:\MSc\moneyboss-user-service\moneyboss-user-service\obj\Debug\net6.0\moneyboss-user-service.pdb
