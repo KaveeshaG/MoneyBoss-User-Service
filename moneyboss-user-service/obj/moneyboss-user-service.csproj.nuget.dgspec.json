@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSc\\MSc-EAD\\moneyboss-user-service\\moneyboss-user-service\\moneyboss-user-service.csproj": {}
+    "/Users/chamodshehanka/Documents/MSc/Assignments/Kaveesha/MoneyBoss-User-Service/moneyboss-user-service/moneyboss-user-service.csproj": {}
   },
   "projects": {
-    "D:\\MSc\\MSc-EAD\\moneyboss-user-service\\moneyboss-user-service\\moneyboss-user-service.csproj": {
+    "/Users/chamodshehanka/Documents/MSc/Assignments/Kaveesha/MoneyBoss-User-Service/moneyboss-user-service/moneyboss-user-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSc\\MSc-EAD\\moneyboss-user-service\\moneyboss-user-service\\moneyboss-user-service.csproj",
+        "projectUniqueName": "/Users/chamodshehanka/Documents/MSc/Assignments/Kaveesha/MoneyBoss-User-Service/moneyboss-user-service/moneyboss-user-service.csproj",
         "projectName": "moneyboss-user-service",
-        "projectPath": "D:\\MSc\\MSc-EAD\\moneyboss-user-service\\moneyboss-user-service\\moneyboss-user-service.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\MSc\\MSc-EAD\\moneyboss-user-service\\moneyboss-user-service\\obj\\",
+        "projectPath": "/Users/chamodshehanka/Documents/MSc/Assignments/Kaveesha/MoneyBoss-User-Service/moneyboss-user-service/moneyboss-user-service.csproj",
+        "packagesPath": "/Users/chamodshehanka/.nuget/packages/",
+        "outputPath": "/Users/chamodshehanka/Documents/MSc/Assignments/Kaveesha/MoneyBoss-User-Service/moneyboss-user-service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/chamodshehanka/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,14 +41,6 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.5, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -83,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }
